@@ -1,4 +1,4 @@
-package com.example.demo_dependency;
+package com.example.demo_dependency.model;
 
 import org.springframework.stereotype.Component;
 
